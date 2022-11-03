@@ -3630,6 +3630,48 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "15e17c46-7b62-4872-80e0-b1b9168bf48c"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "fe04f81a-f7f9-487e-b657-ad36e04a268f"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "933406b4-42d6-4f03-9d73-644639a456d9"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "477cf4ac-8d21-4535-bf9c-cc8f017368a0"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "1e338857-4260-44da-a174-3515a71c7e65"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "9f43244f-ed80-4265-abca-d1b98d456f48"
     }
   ]
 }
